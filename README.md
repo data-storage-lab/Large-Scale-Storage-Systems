@@ -5,7 +5,7 @@
 - [HopsFS: Scaling Hierarchical File System Metadata Using NewSQL Databases](https://www.usenix.org/system/files/conference/fast17/fast17-niazi.pdf) (FAST'17)
 - [IndexFS: Scaling File System Metadata Performance with Stateless Caching and Bulk Insertion](https://www.pdl.cmu.edu/PDL-FTP/FS/IndexFS-SC14.pdf) (SC'14)
 - [Scale and Concurrency of GIGA+: File System Directories with Millions of Files](https://www.usenix.org/legacy/event/fast11/tech/full_papers/PatilNew.pdf) (FAST'11)
+- [Hadoop Distributed File System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.178.989&rep=rep1&type=pdf) (MSST'10)
 - [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) (OSDI'06)
 - [Ceph: A Scalable, High-Performance Distributed File System](https://www.crss.ucsc.edu/media/pubs/6ebbf2736ae06c66f1293b5e431082410f41f83f.pdf) (OSDI'06)
 - [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) (SOSP'03)
-- [Hadoop Distributed File System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.178.989&rep=rep1&type=pdf) (MSST'10)
