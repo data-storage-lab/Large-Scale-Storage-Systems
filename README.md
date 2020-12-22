@@ -3,6 +3,7 @@
 - [ScaleCheck: A Single-Machine Approach for Discovering Scalability Bugs in Large Distributed Systems](https://www.usenix.org/system/files/fast19-stuardo.pdf)(FAST'18)
 - [PFault: A General Framework for Analyzing the Reliability of High-Performance Parallel File Systems](https://www.ece.iastate.edu/~mai/docs/papers/2018_ICS_PFault.pdf) (ICS'18)
 - [HopsFS: Scaling Hierarchical File System Metadata Using NewSQL Databases](https://www.usenix.org/system/files/conference/fast17/fast17-niazi.pdf) (FAST'17)
+- [ShardFS vs. IndexFS: Replication vs. Caching Strategies for Distributed Metadata Management in Cloud Storage Systems](http://www.cs.cmu.edu/~qingzhen/files/shardfs_socc15.pdf) (SoCC'15)
 - [IndexFS: Scaling File System Metadata Performance with Stateless Caching and Bulk Insertion](https://www.pdl.cmu.edu/PDL-FTP/FS/IndexFS-SC14.pdf) (SC'14)
 - [Automated Vulnerability Discovery in Distributed Systems](https://dslab.epfl.ch/pubs/AVD.pdf) (HotDep '11)
 - [Scale and Concurrency of GIGA+: File System Directories with Millions of Files](https://www.usenix.org/legacy/event/fast11/tech/full_papers/PatilNew.pdf) (FAST'11)
