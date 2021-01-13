@@ -1,5 +1,6 @@
 # Large-Scale Storage Systems
 
+- [Fail-Slow at Scale: Evidence of Hardware Performance Faults in Large Production Systems](https://www.usenix.org/system/files/conference/fast18/fast18-gunawi.pdf) (FAST'18)
 - [Protocol-Aware Recovery for Consensus-Based Storage](https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf) (FAST'18)
 - [ScaleCheck: A Single-Machine Approach for Discovering Scalability Bugs in Large Distributed Systems](https://www.usenix.org/system/files/fast19-stuardo.pdf)(FAST'18)
 - [PFault: A General Framework for Analyzing the Reliability of High-Performance Parallel File Systems](https://www.ece.iastate.edu/~mai/docs/papers/2018_ICS_PFault.pdf) (ICS'18)
