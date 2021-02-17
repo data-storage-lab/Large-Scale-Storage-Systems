@@ -1,5 +1,5 @@
 # Large-Scale Storage Systems
-
+- [File Systems Unfit as Distributed Storage Backends: Lessons from 10 Years of Ceph Evolution](https://dl.acm.org/doi/pdf/10.1145/3341301.3359656) (SOSP'19)
 - [DistCache: Provable Load Balancing for Large-Scale Storage Systems with Distributed Caching](https://www.usenix.org/system/files/fast19-liu.pdf) (FAST'19)
 - [Fail-Slow at Scale: Evidence of Hardware Performance Faults in Large Production Systems](https://www.usenix.org/system/files/conference/fast18/fast18-gunawi.pdf) (FAST'18)
 - [Protocol-Aware Recovery for Consensus-Based Storage](https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf) (FAST'18)
