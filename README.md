@@ -1,4 +1,5 @@
 # Large-Scale Storage Systems
+- [Understanding and Discovering Software Configuration Dependencies in Cloud and Datacenter Systems](https://www.cs.cornell.edu/~legunsen/pubs/ChenETAL20CDep.pdf) (ESEC/FSE'20)
 - [File Systems Unfit as Distributed Storage Backends: Lessons from 10 Years of Ceph Evolution](https://dl.acm.org/doi/pdf/10.1145/3341301.3359656) (SOSP'19)
 - [DistCache: Provable Load Balancing for Large-Scale Storage Systems with Distributed Caching](https://www.usenix.org/system/files/fast19-liu.pdf) (FAST'19)
 - [Fail-Slow at Scale: Evidence of Hardware Performance Faults in Large Production Systems](https://www.usenix.org/system/files/conference/fast18/fast18-gunawi.pdf) (FAST'18)
@@ -15,4 +16,4 @@
 - [Ceph: A Scalable, High-Performance Distributed File System](https://www.crss.ucsc.edu/media/pubs/6ebbf2736ae06c66f1293b5e431082410f41f83f.pdf) (OSDI'06)
 - [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) (SOSP'03)
 - [Efficient Metadata Management in Large Distributed Storage Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.2537&rep=rep1&type=pdf) (MSST'03)
-- [Understanding and Discovering Software Configuration Dependencies in Cloud and Datacenter Systems](https://www.cs.cornell.edu/~legunsen/pubs/ChenETAL20CDep.pdf) (ESEC/FSE'20)
+
