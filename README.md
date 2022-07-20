@@ -1,4 +1,5 @@
 # Large-Scale Storage Systems
+- [A Survey and Classification of Software-Defined Storage Systems](http://www.di.fc.ul.pt/~bessani/publications/acmcsur20-sds-survey.pdf) (ACM Computing Surveys'20)
 - [Understanding and Discovering Software Configuration Dependencies in Cloud and Datacenter Systems](https://www.cs.cornell.edu/~legunsen/pubs/ChenETAL20CDep.pdf) (ESEC/FSE'20)
 - [File Systems Unfit as Distributed Storage Backends: Lessons from 10 Years of Ceph Evolution](https://dl.acm.org/doi/pdf/10.1145/3341301.3359656) (SOSP'19)
 - [DistCache: Provable Load Balancing for Large-Scale Storage Systems with Distributed Caching](https://www.usenix.org/system/files/fast19-liu.pdf) (FAST'19)
