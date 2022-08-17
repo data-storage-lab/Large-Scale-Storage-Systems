@@ -1,4 +1,5 @@
-# Large-Scale Storage Systems
+# Large-Scale Storage Systems & Erasure Coding
+- [KVRAID: high performance, write efficient, update friendly erasure coding scheme for KV-SSDs](https://dl.acm.org/doi/pdf/10.1145/3456727.3463781?casa_token=VdzLOeNageMAAAAA:mbwg25uWdNJJX9MXZ50m7oInH7SukC6Lj32StY888RnAD8g7IPuJPB-Pzl9U0a9Ni1yQlL6ZXO0d) (SYSTOR'21)
 - [Boosting Full-Node Repair in Erasure-Coded Storage](https://www.usenix.org/system/files/atc21-lin.pdf#:~:text=Therefore%2C%20how%20to%20seamlessly%20deploy%20existing%20repair%20approaches,repair%20algorithms%20to%20speed%20up%20a%20full-node%20repair.) (USENEX ATC'21)
 - [A Survey and Classification of Software-Defined Storage Systems](http://www.di.fc.ul.pt/~bessani/publications/acmcsur20-sds-survey.pdf) (ACM Computing Surveys'20)
 - [Understanding and Discovering Software Configuration Dependencies in Cloud and Datacenter Systems](https://www.cs.cornell.edu/~legunsen/pubs/ChenETAL20CDep.pdf) (ESEC/FSE'20)
@@ -24,4 +25,3 @@
 - [Ceph: A Scalable, High-Performance Distributed File System](https://www.crss.ucsc.edu/media/pubs/6ebbf2736ae06c66f1293b5e431082410f41f83f.pdf) (OSDI'06)
 - [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) (SOSP'03)
 - [Efficient Metadata Management in Large Distributed Storage Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.2537&rep=rep1&type=pdf) (MSST'03)
-
