@@ -15,6 +15,7 @@
 - [Scaling Embedded In-Situ Indexing with DeltaFS](https://www.pdl.cmu.edu/PDL-FTP/CloudComputing/deltafs_sc18.pdf) (SC'18)
 - [HopsFS: Scaling Hierarchical File System Metadata Using NewSQL Databases](https://www.usenix.org/system/files/conference/fast17/fast17-niazi.pdf) (FAST'17)
 - [Opening the Chrysalis: On the Real Repair Performance of MSR Codes](https://dl.acm.org/doi/10.5555/2930583.2930590) (FAST'16)
+- [SSD Failures in Datacenters: What? When? and Why?](https://dl.acm.org/doi/10.1145/2928275.2928278) (SYSTOR'16)
 - [Having your cake and eating it too: jointly optimal erasure codes for I/O, storage and network-bandwidth](https://dl.acm.org/doi/10.5555/2750482.2750489) (FAST'15)
 - [A Tale of Two Erasure Codes in HDFS](https://dl.acm.org/doi/10.5555/2750482.2750499) (FAST'15)
 - [STAIR Codes: A General Family of Erasure Codes for Tolerating Device and Sector Failures in Practical Storage Systems](https://dl.acm.org/action/doSearch?AllField=STAIR+Codes%3A+A+General+Family+of+Erasure+Codes+for+Tolerating+Device+and+Sector+Failures+in+Practical+Storage+Systems) (FAST'14)
