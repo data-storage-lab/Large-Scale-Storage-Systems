@@ -1,4 +1,5 @@
 # Large-Scale Storage Systems
+- [Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems](https://www.usenix.org/conference/fast23/presentation/lu) (FAST'23)
 - [A Survey and Classification of Software-Defined Storage Systems](http://www.di.fc.ul.pt/~bessani/publications/acmcsur20-sds-survey.pdf) (ACM Computing Surveys'20)
 - [Understanding and Discovering Software Configuration Dependencies in Cloud and Datacenter Systems](https://www.cs.cornell.edu/~legunsen/pubs/ChenETAL20CDep.pdf) (ESEC/FSE'20)
 - [Hybrid Data Reliability for Emerging Key-Value Storage Devices](https://dl.acm.org/doi/10.5555/3386691.3386721) (FAST'20)
