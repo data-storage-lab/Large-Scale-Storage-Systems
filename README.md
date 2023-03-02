@@ -35,6 +35,7 @@
 - [Fast Erasure Coding for Data Storage: A Comprehensive Study of the Acceleration Techniques](https://dl.acm.org/doi/10.1145/3375554) (FAST'19)
 - [OpenEC: Toward Unified and Configurable Erasure Coding Management in Distributed Storage Systems](https://www.usenix.org/conference/fast19/presentation/li) (FAST'19)
 - [Clay Codes: Moulding MDS Codes to Yield an MSR Code](https://www.usenix.org/conference/fast18/presentation/vajha) (FAST'18)
+- [EC-Bench: Benchmarking Onload and Offload Erasure Coders on Modern Hardware Architectures](https://dl.acm.org/doi/abs/10.1007/978-3-030-32813-9_18) (BenchCouncil'18)
 - [Opening the Chrysalis: On the Real Repair Performance of MSR Codes](https://www.usenix.org/conference/fast16/technical-sessions/presentation/pamies-juarez) (FAST'16)
 - [Having your cake and eating it too: jointly optimal erasure codes for I/O, storage and network-bandwidth](https://dl.acm.org/doi/10.5555/2750482.2750489) (FAST'15)
 - [A Tale of Two Erasure Codes in HDFS](https://dl.acm.org/doi/10.5555/2750482.2750499) (FAST'15)
