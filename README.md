@@ -42,3 +42,4 @@
 - [STAIR Codes: A General Family of Erasure Codes for Tolerating Device and Sector Failures in Practical Storage Systems](https://dl.acm.org/action/doSearch?AllField=STAIR+Codes%3A+A+General+Family+of+Erasure+Codes+for+Tolerating+Device+and+Sector+Failures+in+Practical+Storage+Systems) (FAST'14)
 - [Rethinking Erasure Codes for Cloud File Systems: Minimizing I/O for Recovery and Degraded Reads](https://dl.acm.org/doi/10.5555/2208461.2208481) (FAST'12)
 - [A Performance Evaluation and Examination of Open-Source Erasure Coding Libraries For Storage](https://www.usenix.org/conference/fast-09/performance-evaluation-and-examination-open-source-erasure-coding-libraries) (FAST'06)
+- [OpenCL-based erasure coding on heterogeneous architectures](https://ieeexplore.ieee.org/document/7760770) (ASAP'16)
