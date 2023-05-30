@@ -34,6 +34,7 @@
 - [Parity Models: Erasure-Coded Resilience for Prediction Serving Systems](https://dl.acm.org/doi/10.1145/3341301.3359654) (SOSP'19)
 - [Fast Erasure Coding for Data Storage: A Comprehensive Study of the Acceleration Techniques](https://dl.acm.org/doi/10.1145/3375554) (FAST'19)
 - [OpenEC: Toward Unified and Configurable Erasure Coding Management in Distributed Storage Systems](https://www.usenix.org/conference/fast19/presentation/li) (FAST'19)
+- [On Fault Tolerance, Locality, and Optimality in Locally Repairable Codes](https://www.usenix.org/system/files/conference/atc18/atc18-kolosov.pdf) (ATC'18)
 - [Clay Codes: Moulding MDS Codes to Yield an MSR Code](https://www.usenix.org/conference/fast18/presentation/vajha) (FAST'18)
 - [EC-Bench: Benchmarking Onload and Offload Erasure Coders on Modern Hardware Architectures](https://dl.acm.org/doi/abs/10.1007/978-3-030-32813-9_18) (BenchCouncil'18)
 - [Opening the Chrysalis: On the Real Repair Performance of MSR Codes](https://www.usenix.org/conference/fast16/technical-sessions/presentation/pamies-juarez) (FAST'16)
