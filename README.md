@@ -31,6 +31,7 @@
 - [KVRAID: high performance, write efficient, update friendly erasure coding scheme for KV-SSDs](https://dl.acm.org/doi/pdf/10.1145/3456727.3463781?casa_token=VdzLOeNageMAAAAA:mbwg25uWdNJJX9MXZ50m7oInH7SukC6Lj32StY888RnAD8g7IPuJPB-Pzl9U0a9Ni1yQlL6ZXO0d) (SYSTOR'21)
 - [Boosting Full-Node Repair in Erasure-Coded Storage](https://www.usenix.org/system/files/atc21-lin.pdf#:~:text=Therefore%2C%20how%20to%20seamlessly%20deploy%20existing%20repair%20approaches,repair%20algorithms%20to%20speed%20up%20a%20full-node%20repair.) (USENEX ATC'21)
 - [StripeFinder: Erasure Coding of Small Objects Over Key-Value Storage Devices (An Uphill Battle)](https://www.usenix.org/conference/hotstorage20/presentation/maheshwari) (HotStorage'20)
+- [An Erasure-Coded Storage System for Edge Computing](https://ieeexplore.ieee.org/document/9097196) (ACCESS'20)
 - [Parity Models: Erasure-Coded Resilience for Prediction Serving Systems](https://dl.acm.org/doi/10.1145/3341301.3359654) (SOSP'19)
 - [Fast Erasure Coding for Data Storage: A Comprehensive Study of the Acceleration Techniques](https://dl.acm.org/doi/10.1145/3375554) (FAST'19)
 - [OpenEC: Toward Unified and Configurable Erasure Coding Management in Distributed Storage Systems](https://www.usenix.org/conference/fast19/presentation/li) (FAST'19)
@@ -38,10 +39,11 @@
 - [Clay Codes: Moulding MDS Codes to Yield an MSR Code](https://www.usenix.org/conference/fast18/presentation/vajha) (FAST'18)
 - [EC-Bench: Benchmarking Onload and Offload Erasure Coders on Modern Hardware Architectures](https://dl.acm.org/doi/abs/10.1007/978-3-030-32813-9_18) (BenchCouncil'18)
 - [Opening the Chrysalis: On the Real Repair Performance of MSR Codes](https://www.usenix.org/conference/fast16/technical-sessions/presentation/pamies-juarez) (FAST'16)
+- [OpenCL-based erasure coding on heterogeneous architectures](https://ieeexplore.ieee.org/document/7760770) (ASAP'16)
 - [Having your cake and eating it too: jointly optimal erasure codes for I/O, storage and network-bandwidth](https://dl.acm.org/doi/10.5555/2750482.2750489) (FAST'15)
 - [A Tale of Two Erasure Codes in HDFS](https://dl.acm.org/doi/10.5555/2750482.2750499) (FAST'15)
 - [STAIR Codes: A General Family of Erasure Codes for Tolerating Device and Sector Failures in Practical Storage Systems](https://dl.acm.org/action/doSearch?AllField=STAIR+Codes%3A+A+General+Family+of+Erasure+Codes+for+Tolerating+Device+and+Sector+Failures+in+Practical+Storage+Systems) (FAST'14)
 - [Rethinking Erasure Codes for Cloud File Systems: Minimizing I/O for Recovery and Degraded Reads](https://dl.acm.org/doi/10.5555/2208461.2208481) (FAST'12)
 - [A Performance Evaluation and Examination of Open-Source Erasure Coding Libraries For Storage](https://www.usenix.org/conference/fast-09/performance-evaluation-and-examination-open-source-erasure-coding-libraries) (FAST'06)
-- [OpenCL-based erasure coding on heterogeneous architectures](https://ieeexplore.ieee.org/document/7760770) (ASAP'16)
-- [An Erasure-Coded Storage System for Edge Computing](https://ieeexplore.ieee.org/document/9097196) (ACCESS'20)
+
+
