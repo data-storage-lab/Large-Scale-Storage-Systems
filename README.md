@@ -15,7 +15,7 @@
 - [Opening the Chrysalis: On the Real Repair Performance of MSR Codes](https://dl.acm.org/doi/10.5555/2930583.2930590) (FAST'16)
 - [SSD Failures in Datacenters: What? When? and Why?](https://dl.acm.org/doi/10.1145/2928275.2928278) (SYSTOR'16)
 - [ShardFS vs. IndexFS: Replication vs. Caching Strategies for Distributed Metadata Management in Cloud Storage Systems](http://www.cs.cmu.edu/~qingzhen/files/shardfs_socc15.pdf) (SoCC'15)
-- [Eventually Consistent: Not What You Were Expecting?: Methods of quantifying consistency (or lack thereof) in eventually consistent storage systems](https://dl.acm.org/doi/pdf/10.1145/2576966.2582994)(ACM Quene'14)
+- [Eventually Consistent: Not What You Were Expecting?: Methods of quantifying consistency (or lack thereof) in eventually consistent storage systems](https://dl.acm.org/doi/pdf/10.1145/2576966.2582994) (ACM Queue'14)
 - [IndexFS: Scaling File System Metadata Performance with Stateless Caching and Bulk Insertion](https://www.pdl.cmu.edu/PDL-FTP/FS/IndexFS-SC14.pdf) (SC'14)
 - [Openstack Swift: Using, Administering, and Developing for Swift Object Storage](https://oiipdf.com/openstack-swift) (Joe Arnold'14)
 - [Scale and Concurrency of GIGA+: File System Directories with Millions of Files](https://www.usenix.org/legacy/event/fast11/tech/full_papers/PatilNew.pdf) (FAST'11)
