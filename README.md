@@ -25,7 +25,7 @@
 - [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) (SOSP'03)
 - [Efficient Metadata Management in Large Distributed Storage Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.2537&rep=rep1&type=pdf) (MSST'03)
 
-# Erasure Coding
+# Erasure Coding for Storage Systems
 - [Practical Design Considerations for Wide Locally Recoverable Codes (LRCs)](https://www.usenix.org/conference/fast23/presentation/kadekodi) (FAST'23)
 - [ParaRC: Embracing Sub-Packetization for Repair Parallelization in MSR-Coded Storage](https://www.usenix.org/conference/fast23/presentation/li-xiaolu) (FAST'23)
 - [Tiger: Disk-Adaptive Redundancy Without Placement Restrictions](https://www.usenix.org/conference/osdi22/presentation/kadekodi) (OSDI'22)
