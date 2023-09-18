@@ -49,3 +49,7 @@
 - [Rethinking Erasure Codes for Cloud File Systems: Minimizing I/O for Recovery and Degraded Reads](https://dl.acm.org/doi/10.5555/2208461.2208481) (FAST'12)
 - [A Performance Evaluation and Examination of Open-Source Erasure Coding Libraries For Storage](https://www.usenix.org/conference/fast-09/performance-evaluation-and-examination-open-source-erasure-coding-libraries) (FAST'06)
 - [Exploring Fault-Tolerant Erasure Codes for Scalable All-Flash Array Clusters](https://arxiv.org/pdf/1906.08602) (TPDS: Volume: 30, Issue: 6, 01 June 2019)
+- [An XOR-Based Erasure-Resilient Coding Scheme](https://www.cs.utexas.edu/~diz/Sub%20Websites/Research/An_XOR_based_erasure_resilient_coding_scheme.pdf) (ICSI Technical Report, No. TR-95-048, 1995)
+- [Effective erasure codes for reliable computer communication protocols](https://dl.acm.org/doi/10.1145/263876.263881)(ACM SIGCOMN computer communication review, 1997)
+- [XORing Elephants: Novel Erasure Codes for Big Data](https://www.vldb.org/pvldb/vol6/p325-sathiamoorthy.pdf)(Proceedings of the VLDB Endowment, 2013)
+- [Erasure coding vs. replication: Communications and Information Theory](https://dl.acm.org/doi/10.5555/646334.687814)(Peer-to-Peer Systems, 2002)
