@@ -1,5 +1,6 @@
 # Large-Scale Storage Systems
 - [Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems](https://www.usenix.org/conference/fast23/presentation/lu) (FAST'23)
+- [On Mixing Eventual and Strong Consistency: Acute Cloud Types](https://arxiv.org/pdf/1905.11762.pdf) (TPDS'22)
 - [A Survey and Classification of Software-Defined Storage Systems](http://www.di.fc.ul.pt/~bessani/publications/acmcsur20-sds-survey.pdf) (ACM Computing Surveys'20)
 - [Understanding and Discovering Software Configuration Dependencies in Cloud and Datacenter Systems](https://www.cs.cornell.edu/~legunsen/pubs/ChenETAL20CDep.pdf) (ESEC/FSE'20)
 - [Hybrid Data Reliability for Emerging Key-Value Storage Devices](https://dl.acm.org/doi/10.5555/3386691.3386721) (FAST'20)
@@ -16,9 +17,11 @@
 - [SSD Failures in Datacenters: What? When? and Why?](https://dl.acm.org/doi/10.1145/2928275.2928278) (SYSTOR'16)
 - [ShardFS vs. IndexFS: Replication vs. Caching Strategies for Distributed Metadata Management in Cloud Storage Systems](http://www.cs.cmu.edu/~qingzhen/files/shardfs_socc15.pdf) (SoCC'15)
 - [Eventually Consistent: Not What You Were Expecting?: Methods of quantifying consistency (or lack thereof) in eventually consistent storage systems](https://dl.acm.org/doi/pdf/10.1145/2576966.2582994) (ACM Queue'14)
+- [Benchmarking Eventual Consistency: Lessons Learned from Long-Term Experimental Studies](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6903457) (IC2E'14)
 - [IndexFS: Scaling File System Metadata Performance with Stateless Caching and Bulk Insertion](https://www.pdl.cmu.edu/PDL-FTP/FS/IndexFS-SC14.pdf) (SC'14)
 - [Openstack Swift: Using, Administering, and Developing for Swift Object Storage](https://oiipdf.com/openstack-swift) (Joe Arnold'14)
 - [Scale and Concurrency of GIGA+: File System Directories with Millions of Files](https://www.usenix.org/legacy/event/fast11/tech/full_papers/PatilNew.pdf) (FAST'11)
+- [Eventual Consistency: How soon is eventual?](https://dl.acm.org/doi/pdf/10.1145/2093185.2093186) (MW4SOC'11)
 - [Hadoop Distributed File System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.178.989&rep=rep1&type=pdf) (MSST'10)
 - [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) (OSDI'06)
 - [Ceph: A Scalable, High-Performance Distributed File System](https://www.crss.ucsc.edu/media/pubs/6ebbf2736ae06c66f1293b5e431082410f41f83f.pdf) (OSDI'06)
