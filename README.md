@@ -9,6 +9,7 @@
 - [Fail-Slow at Scale: Evidence of Hardware Performance Faults in Large Production Systems](https://www.usenix.org/system/files/conference/fast18/fast18-gunawi.pdf) (FAST'18)
 - [Protocol-Aware Recovery for Consensus-Based Storage](https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf) (FAST'18)
 - [ScaleCheck: A Single-Machine Approach for Discovering Scalability Bugs in Large Distributed Systems](https://www.usenix.org/system/files/fast19-stuardo.pdf)(FAST'18)
+- [Towards Web-based Delta Synchronization for Cloud Storage Services](https://www.usenix.org/system/files/conference/fast18/fast18-xiao.pdf) (FAST'18)
 - [PFault: A General Framework for Analyzing the Reliability of High-Performance Parallel File Systems](https://www.ece.iastate.edu/~mai/docs/papers/2018_ICS_PFault.pdf) (ICS'18)
 - [Scaling Embedded In-Situ Indexing with DeltaFS](https://www.pdl.cmu.edu/PDL-FTP/CloudComputing/deltafs_sc18.pdf) (SC'18)
 - [HopsFS: Scaling Hierarchical File System Metadata Using NewSQL Databases](https://www.usenix.org/system/files/conference/fast17/fast17-niazi.pdf) (FAST'17)
