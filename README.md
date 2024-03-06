@@ -28,6 +28,7 @@
 - [Ceph: A Scalable, High-Performance Distributed File System](https://www.crss.ucsc.edu/media/pubs/6ebbf2736ae06c66f1293b5e431082410f41f83f.pdf) (OSDI'06)
 - [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) (SOSP'03)
 - [Efficient Metadata Management in Large Distributed Storage Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.2537&rep=rep1&type=pdf) (MSST'03)
+- [DFS-Perf: A Scalable and Unified Benchmarking Framework for Distributed File Systems](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-133.pdf) (Tech repo from UC Berkeley)
 
 # Erasure Coding for Storage Systems
 - [Practical Design Considerations for Wide Locally Recoverable Codes (LRCs)](https://www.usenix.org/conference/fast23/presentation/kadekodi) (FAST'23)
