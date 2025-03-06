@@ -31,10 +31,6 @@
 - [Efficient Metadata Management in Large Distributed Storage Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.2537&rep=rep1&type=pdf) (MSST'03)
 - [DFS-Perf: A Scalable and Unified Benchmarking Framework for Distributed File Systems](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-133.pdf) (Tech repo from UC Berkeley)
 
-# Blockchain Storage Systems
-- [Maat: Analyzing and Optimizing Overcharge on Blockchain Storage](https://www.usenix.org/system/files/fast25-he.pdf) (FAST'25)
-- [NURGLE: Exacerbating Resource Consumption in Blockchain State Storage via MPT Manipulation](https://arxiv.org/pdf/2406.10687) (SP'24)
-
 # Erasure Coding for Storage Systems
 - [Practical Design Considerations for Wide Locally Recoverable Codes (LRCs)](https://www.usenix.org/conference/fast23/presentation/kadekodi) (FAST'23)
 - [ParaRC: Embracing Sub-Packetization for Repair Parallelization in MSR-Coded Storage](https://www.usenix.org/conference/fast23/presentation/li-xiaolu) (FAST'23)
